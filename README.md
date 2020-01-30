@@ -1,7 +1,7 @@
 # School Notes Pro
 Written by A.I. and G.N.
 
-## [Download v1.0.0](https://www.dropbox.com/s/25i0de78by254vo/School%20Notes%20v1.0.0.exe?dl=1)
+## [Download v1.1.0](https://www.dropbox.com/s/c2sol2tsyqcsuu8/School%20Notes%20v1.1.0.exe?dl=1)
 -----------------------
 
 School Notes Pro is the new version of School Notes+. It has been completely written from scratch in Python.
