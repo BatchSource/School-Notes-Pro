@@ -1,7 +1,8 @@
 # School Notes Pro
 Written by A.I. and G.N.
 
-## [Download v1.1.0](https://www.dropbox.com/s/c2sol2tsyqcsuu8/School%20Notes%20v1.1.0.exe?dl=1)
+# [Download v1.2.0](https://www.dropbox.com/s/9cp5xizdo4vjuqd/School%20Notes%20Pro%20v1.2.0.exe?dl=1)
+### [Download v1.1.0](https://www.dropbox.com/s/c2sol2tsyqcsuu8/School%20Notes%20v1.1.0.exe?dl=1)
 -----------------------
 
 School Notes Pro is the new version of School Notes+. It has been completely written from scratch in Python.
@@ -10,9 +11,11 @@ Features include:
 - Use a STEM 2019 schedule, or use a completely custom schedule (Unlimited classes and times, without missing out on any features)
 - Say how much time is left in your class
 - Add unlimited homework assignments with a clickable GUI
+- See which assignments are late
 - A nice, clickable, and extremely customizable GUI
 - Dynamic classes for each day
 - Optioms to change background and foreground color to any HEX value
 - Change the transparancy to any value
 - Set it to always be on top
+- Change the current weekday
 - And a lot more!
