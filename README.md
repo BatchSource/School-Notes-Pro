@@ -8,8 +8,8 @@ Written by A.I. and G.N.
 
 ----------------
 
-- [Changelog](#)
-- [Developer Builds](#)
+- [Changelog](https://github.com/BatchSource/School-Notes-Pro/blob/master/changelog.md)
+- [Developer Builds](https://github.com/BatchSource/School-Notes-Pro/blob/master/testbuilds.md)
 
 ----------------
 
