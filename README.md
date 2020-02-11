@@ -1,10 +1,19 @@
 # School Notes Pro
 Written by A.I. and G.N.
 
-# [Download v1.2.0](https://www.dropbox.com/s/9cp5xizdo4vjuqd/School%20Notes%20Pro%20v1.2.0.exe?dl=1)
-### [Download v1.1.0](https://www.dropbox.com/s/c2sol2tsyqcsuu8/School%20Notes%20v1.1.0.exe?dl=1)
------------------------
+# [Download v1.3.0](https://www.dropbox.com/s/t2byxzlq57ww17j/School%20Notes%20Pro%20v1.3.0.exe?dl=0)
+##### [Download v1.2.0](https://www.dropbox.com/s/9cp5xizdo4vjuqd/School%20Notes%20Pro%20v1.2.0.exe?dl=1)
+##### [Download v1.1.0](https://www.dropbox.com/s/c2sol2tsyqcsuu8/School%20Notes%20v1.1.0.exe?dl=1)
+##### [Download v1.0.0](https://www.dropbox.com/s/25i0de78by254vo/School%20Notes%20v1.0.0.exe?dl=1)
 
+----------------
+
+- [Changelog](#)
+- [Developer Builds](#)
+
+----------------
+
+### About
 School Notes Pro is the new version of School Notes+. It has been completely written from scratch in Python.
 
 Features include:
@@ -14,8 +23,10 @@ Features include:
 - See which assignments are late
 - A nice, clickable, and extremely customizable GUI
 - Dynamic classes for each day
-- Optioms to change background and foreground color to any HEX value
-- Change the transparancy to any value
+- Options to change background and foreground color to any HEX value
+- Change the transparency to any value
 - Set it to always be on top
 - Change the current weekday
 - And a lot more!
+
+-----------------------
