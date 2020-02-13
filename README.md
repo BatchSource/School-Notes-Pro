@@ -2,7 +2,7 @@
 Written by A.I. and G.N.
 
 
-# [Download v1.3.0](https://www.dropbox.com/s/t2byxzlq57ww17j/School%20Notes%20Pro%20v1.3.0.exe?dl=1)
+# [Download v1.3.1](https://www.dropbox.com/s/dbejhr7g14spryq/School%20Notes%20v1.3.1.exe?dl=0)
 ###### [View Universal Builds (for MacOS and Linux)](https://github.com/BatchSource/School-Notes-Pro/blob/master/pybuilds.md)
 <hr width='30'>
 
