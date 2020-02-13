@@ -1,4 +1,7 @@
 # Changelog
+------
+#### `v1.3.1`
+- Fixed bug in STEM Schedule Setup, where Thursday Seminar used A-DAY schedule.
 
 #### `v1.3.0`
 - Edit now works when there is a space in the homework name
@@ -29,8 +32,8 @@
 - Added homework counter
 - Fixed bug that prevents you from opening program after transparency set to an invalid input
 - Grayed out "`Remove Assignment`" when there are no assignment
-- 
 
 #### `v1.0.0 [INITIAL BUILD]`
 - Added custom classes
 - Created GUI
+- Many others (too long to list)
