@@ -5,7 +5,7 @@ These are unstable developer builds, any problems caused by them are not our pro
 
 
 ### After v1.2.0
-######`02/07/2020 - DEVELOPER BUILD TB#0001` [`Download`](https://www.dropbox.com/s/bw7iuuvwt38d052/School%20Notes%20Pro%20TB%2300001.exe?dl=1)
+#### `02/07/2020 - DEVELOPER BUILD TB#0001` [`Download`](https://www.dropbox.com/s/bw7iuuvwt38d052/School%20Notes%20Pro%20TB%2300001.exe?dl=1)
 - Fixed bug where the assignment sorter only visually sorted the assignments
 - Fixed bugs that puts items in displayHomework twice
 - Improved how it gets the current period
